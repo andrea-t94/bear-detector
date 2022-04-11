@@ -13,7 +13,7 @@ The deployment is based on Voilà to convert the notebook as a web page, and Bin
 
 ## Set up
 
-In order to properly configure the environment, you need [Anaconda](https://www.anaconda.com/) installed. \n
+In order to properly configure the environment, you need [Anaconda](https://www.anaconda.com/) installed. /n
 Then just run ```./app:setup.sh```, this will create the conda environment, install the relevant packages and allow to use it on Jupyter notebooks.
 
 ## Deployment
